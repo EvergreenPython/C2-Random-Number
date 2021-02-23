@@ -28,3 +28,5 @@ elif(dice == 5):
   print("You rolled a 5")
 else:
   print("You rolled a 6")
+
+# Have the computer choose a random number between 1-10 and give them a fortune! 
